@@ -14,8 +14,8 @@ classes are labeled in the below order:
   mask
   boots
   
-Example image:
-
+Example original image:
+![orig](https://github.com/vigneshbabupj/workers_safety_equipment_data/blob/main/example_images/original_image.jpg)
 
 
 ## Monocular Depth Estimation
@@ -24,6 +24,7 @@ The MiDas is used for the same:  https://github.com/intel-isl/MiDaS
 The Complete tutorial for getting depth on the your image is explained in *MiDas_depth_images.ipynb*
 
 Example depth image:
+![depth](https://github.com/vigneshbabupj/workers_safety_equipment_data/blob/main/example_images/depth-image.png)
 
 
 ## Plane Segmentation
@@ -32,3 +33,4 @@ Planer cnn model is used for plane segmentation: https://github.com/NVlabs/plane
 The Complete tutorial for getting depth on the your image is explained in *PlanerCnn_images.ipynb*
 
 Example Plane segmentation:
+![plane](https://github.com/vigneshbabupj/workers_safety_equipment_data/blob/main/example_images/Plane_Segmentation.jpg)
