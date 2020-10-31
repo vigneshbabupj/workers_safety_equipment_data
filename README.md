@@ -9,12 +9,12 @@ The below tool is used to create bounding box and label for the custom images
 Annotation tool : https://github.com/miki998/YoloV3_Annotation_Tool
 
 classes are labeled in the below order:
-  hardhat
-  vest
-  mask
-  boots
+* hardhat
+* vest
+* mask
+* boots
   
-Example original image:
+Example original image: \
 ![orig](https://github.com/vigneshbabupj/workers_safety_equipment_data/blob/main/example_images/original_image.jpg)
 
 
@@ -23,7 +23,7 @@ The MiDas is used for the same:  https://github.com/intel-isl/MiDaS
 
 The Complete tutorial for getting depth on the your image is explained in *MiDas_depth_images.ipynb*
 
-Example depth image:
+Example depth image:\
 ![depth](https://github.com/vigneshbabupj/workers_safety_equipment_data/blob/main/example_images/depth-image.png)
 
 
@@ -32,5 +32,5 @@ Planer cnn model is used for plane segmentation: https://github.com/NVlabs/plane
 
 The Complete tutorial for getting depth on the your image is explained in *PlanerCnn_images.ipynb*
 
-Example Plane segmentation:
+Example Plane segmentation:\
 ![plane](https://github.com/vigneshbabupj/workers_safety_equipment_data/blob/main/example_images/Plane_Segmentation.jpg)
