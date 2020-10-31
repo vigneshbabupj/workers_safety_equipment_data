@@ -24,7 +24,7 @@ The MiDas is used for the same:  https://github.com/intel-isl/MiDaS
 The Complete tutorial for getting depth on the your image is explained in *MiDas_depth_images.ipynb*
 
 Example depth image:\
-![depth](https://github.com/vigneshbabupj/workers_safety_equipment_data/blob/main/example_images/depth-image.png)
+![depth](https://github.com/vigneshbabupj/workers_safety_equipment_data/blob/main/example_images/depth_image.png)
 
 
 ## Plane Segmentation
