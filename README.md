@@ -1,6 +1,6 @@
 # Workers Safety Equipment Data
 
-A complete dataset of workers safety equipment which includes images, bounding boxes, depth images and planer segmentation images
+A complete dataset of workers safety equipment images which includes images, labelled bounding boxes, depth images and planer segmentation images
 
 [Download Link](https://drive.google.com/file/d/1-Ct5UoVWq1cFyvZd5X46wNx_HRdgDTxi/view?usp=sharing)
 
